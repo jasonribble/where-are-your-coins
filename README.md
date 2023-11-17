@@ -10,7 +10,7 @@ Understanding the metaphor of Bitcoin. A brief introduction to bitcoin for devel
   - nostr: @companion
   - Github: @jasonribble
 
-## Pre-requistes 
+## Pre-requisites  
 
 - Bitcoin is a peer-to-peer electric cash system
 - Let's pretend it's $0 per coin today.
@@ -22,16 +22,16 @@ Understanding the metaphor of Bitcoin. A brief introduction to bitcoin for devel
 
 ## Objective
 
-- To see what the underlying technical metahpor of Bitcoin.
-When talking about bitcion, we use metaphor to make it more human meaningful.
-- (Hidden agenda: Confuse you to incite curositity) 
+- To see what the underlying technical metaphor of Bitcoin.
+When talking about bitcoin, we use metaphor to make it more human meaningful.
+- (Hidden agenda: Confuse you to incite curiosity) 
 
 [Zooko's triangle](images/zookos-triangle.png)
 
 
 ## Metaphors in Computer Science
 
-In computer science, we talk in abstrations for simplicity.
+In computer science, we talk in abstractions for simplicity.
 
 This help us by allowing for additional complexity, but with a tradeoff.
 
@@ -39,7 +39,7 @@ What are some examples of this?
 
 [Mac now supports Windows](images/mac-now-supports-windows.jpg)
 
-## Who has send & receieve bitcoin before?
+## Who has send & receive bitcoin before?
 
 - Can someone describe how I can send them bitcoin step-by-step?
   - Talk in human meaningful ways
@@ -62,7 +62,7 @@ What are some examples of this?
 - We'll focus on two forms of applied cryptography in bitcoin
 - What is a core element of cryptography?
 
-## Assemetry
+## Assemestry
 
 - Easy to do one way
 - Hard to reverse it
@@ -75,7 +75,7 @@ What are some examples of this?
 - What is the purpose of mining?
   - Why do we need it?
 
-[DigDug Minner](images/dig-dug.png)
+[DigDug Miner](images/dig-dug.png)
 
 ## Miners = Hashers (continued)
 
