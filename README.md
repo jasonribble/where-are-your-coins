@@ -18,11 +18,10 @@ Understanding the metaphor of Bitcoin. A brief introduction to bitcoin for devel
 - ~~Energy section conversation~~
 - If we have extra time and exhausted technical questions, then we can talk big picture
 - Legal disclaimer
-
 ## Objective
 
 - To see what the underlying technical metaphor of Bitcoin.
-When talking about bitcoin, we use metaphor to make it more human meaningful.
+- When talking about bitcoin, we use metaphor to make it more human meaningful.
 - (Hidden agenda: Confuse you to incite curiosity) 
 
 [Zooko's triangle](images/zookos-triangle.png)
@@ -76,7 +75,7 @@ What are some examples of this?
 
 [DigDug Miner](images/dig-dug.png)
 
-## Miners = Hashers (continued)
+## Miners = Hashers (cont.)
 
 “The purpose of mining is not the creation of new bitcoin. That’s the incentive system. Mining is the mechanism by which bitcoin’s security is decentralized.” - Mastering Bitcoin
 
@@ -87,6 +86,9 @@ What are some examples of this?
   - What is a bitcoin address?
 - What are signatures?
 
+## Wallets = Signers (cont.)
+- Fun fact: since private keys are 256 bits, that means there are 2^256 different possibilities. 
+- "There are as many possible private keys in Bitcoin s there are atoms in a billion galaxies" - Programming Bitcoin by Jimmy Song
 
 [Public key exchange](https://www.youtube.com/watch?v=YEBfamv-_do)
 
